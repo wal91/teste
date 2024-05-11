@@ -2,3 +2,5 @@ Nome: Walmer
 CPF: 078.000.444-23
 Idade: 32
 Altura: 1.75
+Cidade: camçari
+Pais: Brasil
