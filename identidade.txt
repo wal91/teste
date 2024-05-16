@@ -4,3 +4,5 @@ Idade: 32
 Altura: 1.75
 Cidade: camçari
 Pais: Brasil
+Cor de Cabelo: preto
+
